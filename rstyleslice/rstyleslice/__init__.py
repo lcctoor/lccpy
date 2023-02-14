@@ -1,1 +1,1 @@
-from ._rslice import rslice, rindex
+from ._rstyleslice import rslice, rindex

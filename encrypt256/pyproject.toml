@@ -3,12 +3,12 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "rstyleslice"
-version = "1.0"
-description = "让Python容器（如：list）可以使用R语言风格的索引和切片。"
+name = "encrypt256"
+version = "1.4"
+description = "一个用于加密str型和bytes型数据的加密器"
 
-dependencies = []
-keywords = ["rstyleslice", "slice"]
+dependencies = ["pycryptodome"]
+keywords = ["pycryptodome", "encrypt", "AES", "Crypto"]
 
 readme = "README.md"
 authors = [{name = "许灿标", email = "lcctoor@outlook.com"}]
@@ -19,5 +19,5 @@ dynamic = []
 [project.scripts]
 
 [project.urls]
-Documentation = "https://www.yuque.com/lcctoor/lcctopen/rstyleslice"
-Source = "https://github.com/lcctoor/lcctopen/tree/main/rstyleslice"
+Documentation = "https://www.yuque.com/lcctoor/lcctopen/encrypt256"
+Source = "https://github.com/lcctoor/lcctopen/tree/main/encrypt256"

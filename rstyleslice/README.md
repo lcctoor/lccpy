@@ -1,4 +1,4 @@
-# 项目介绍
+# 项目描述
 
 让Python容器（如：list）可以使用R语言风格的索引和切片。
 
@@ -12,7 +12,7 @@ R语言风格切片：双闭区间。如：[3: 5]表示提取第3、4、5三个�
 
 文档：[https://www.yuque.com/lcctoor/lcctopen/rstyleslic](https://www.yuque.com/lcctoor/lcctopen/rstyleslice)
 
-源码：[https://github.com/lcctoor/lcctopen/blob/main/rstyleslice](https://github.com/lcctoor/lcctopen/blob/main/rstyleslice)
+源码：[https://github.com/lcctoor/lcctopen/tree/main/rstyleslice](https://github.com/lcctoor/lcctopen/tree/main/rstyleslice)
 
 # 关于作者
 
@@ -28,7 +28,7 @@ R语言风格切片：双闭区间。如：[3: 5]表示提取第3、4、5三个�
 
 ![微信二维码](https://raw.githubusercontent.com/lcctoor/support/main/author/WeChatQR200_200.jpg)
 
-技术交流群：请与我联系后获取
+交流群：目前我们有微信交流群>高质量读书会、Python技术交流，若有兴趣加入，请与我联系后获取。
 
 # 语法预览
 
